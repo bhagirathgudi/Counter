@@ -1,0 +1,13 @@
+C:\Users\bhagi\source\repos\CounterApp\CounterApp\CounterApp\bin\Debug\netstandard2.0\CounterApp.deps.json
+C:\Users\bhagi\source\repos\CounterApp\CounterApp\CounterApp\bin\Debug\netstandard2.0\CounterApp.dll
+C:\Users\bhagi\source\repos\CounterApp\CounterApp\CounterApp\bin\Debug\netstandard2.0\CounterApp.pdb
+C:\Users\bhagi\source\repos\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.csprojAssemblyReference.cache
+C:\Users\bhagi\source\repos\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bhagi\source\repos\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\bhagi\source\repos\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\styles.css.g.cs
+C:\Users\bhagi\source\repos\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.csproj.CoreCompileInputs.cache
+C:\Users\bhagi\source\repos\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.AssemblyInfoInputs.cache
+C:\Users\bhagi\source\repos\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.AssemblyInfo.cs
+C:\Users\bhagi\source\repos\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\bhagi\source\repos\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.dll
+C:\Users\bhagi\source\repos\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.pdb
